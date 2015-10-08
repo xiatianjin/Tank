@@ -1,0 +1,41 @@
+E:\zqgame\testGame\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+E:\zqgame\testGame\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+E:\zqgame\testGame\Temp\UnityVS_bin\Debug\UnityEditor.dll
+E:\zqgame\testGame\Temp\UnityVS_bin\Debug\UnityEngine.dll
+E:\zqgame\testGame\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+E:\zqgame\testGame\Temp\UnityVS_bin\Debug\UnityEngine.xml
+E:\zqgame\testGame\Temp\UnityVS_bin\Debug\UnityEditor.xml
+E:\zqgame\testGame\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+E:\zqgame\testGame\obj\Debug\UnityVS.testGame.CSharp.csprojResolveAssemblyReference.cache
+E:\zqgame\testGame\obj\Debug\Assembly-CSharp.dll
+E:\zqgame\testGame\obj\Debug\Assembly-CSharp.pdb
+E:\zqgame\testGame\Temp\UnityVS_bin\Debug\Assembly-UnityScript-firstpass.dll
+E:\zqgame\testGame\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\ff_unity\develop\project\testGame\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+E:\ff_unity\develop\project\testGame\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+E:\ff_unity\develop\project\testGame\Temp\UnityVS_bin\Debug\Assembly-UnityScript-firstpass.dll
+E:\ff_unity\develop\project\testGame\Temp\UnityVS_bin\Debug\LitJson.dll
+E:\ff_unity\develop\project\testGame\Temp\UnityVS_bin\Debug\UnityEditor.dll
+E:\ff_unity\develop\project\testGame\Temp\UnityVS_bin\Debug\UnityEngine.dll
+E:\ff_unity\develop\project\testGame\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+E:\ff_unity\develop\project\testGame\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\ff_unity\develop\project\testGame\Temp\UnityVS_bin\Debug\UnityEngine.xml
+E:\ff_unity\develop\project\testGame\Temp\UnityVS_bin\Debug\UnityEditor.xml
+E:\ff_unity\develop\project\testGame\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+E:\ff_unity\develop\project\testGame\obj\Debug\UnityVS.testGame.CSharp.csprojResolveAssemblyReference.cache
+E:\ff_unity\develop\project\testGame\obj\Debug\Assembly-CSharp.dll
+E:\ff_unity\develop\project\testGame\obj\Debug\Assembly-CSharp.pdb
+E:\ff_unity\develop\project _5.0\testGame\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+E:\ff_unity\develop\project _5.0\testGame\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+E:\ff_unity\develop\project _5.0\testGame\Temp\UnityVS_bin\Debug\Assembly-UnityScript-firstpass.dll
+E:\ff_unity\develop\project _5.0\testGame\Temp\UnityVS_bin\Debug\LitJson.dll
+E:\ff_unity\develop\project _5.0\testGame\Temp\UnityVS_bin\Debug\UnityEditor.dll
+E:\ff_unity\develop\project _5.0\testGame\Temp\UnityVS_bin\Debug\UnityEngine.dll
+E:\ff_unity\develop\project _5.0\testGame\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+E:\ff_unity\develop\project _5.0\testGame\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\ff_unity\develop\project _5.0\testGame\Temp\UnityVS_bin\Debug\UnityEngine.xml
+E:\ff_unity\develop\project _5.0\testGame\Temp\UnityVS_bin\Debug\UnityEditor.xml
+E:\ff_unity\develop\project _5.0\testGame\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+E:\ff_unity\develop\project _5.0\testGame\obj\Debug\UnityVS.testGame.CSharp.csprojResolveAssemblyReference.cache
+E:\ff_unity\develop\project _5.0\testGame\obj\Debug\Assembly-CSharp.dll
+E:\ff_unity\develop\project _5.0\testGame\obj\Debug\Assembly-CSharp.pdb

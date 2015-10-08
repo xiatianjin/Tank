@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f5bbb8de30b9ea14bb4efdb38eeff4f9
+timeCreated: 1437036033
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - TankPos: {instanceID: 0}
+  - TankShellParticle: {instanceID: 0}
+  - GunShellParticle: {instanceID: 0}
+  - Tank_Smoke: {instanceID: 0}
+  - deal: {instanceID: 0}
+  - Cube: {instanceID: 0}
+  - UI: {instanceID: 0}
+  - SprBlood: {instanceID: 0}
+  - Gold: {fileID: 132070, guid: 0c59315fd171cc74eb52d5285e0d63b9, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
